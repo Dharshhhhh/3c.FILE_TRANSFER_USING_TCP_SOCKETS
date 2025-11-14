@@ -49,7 +49,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
 ```
 ## OUPUT
 ![WhatsApp Image 2025-11-14 at 10 05 06_e59277a6](https://github.com/user-attachments/assets/c726467e-29ab-4553-aa0f-a9cb9a804f80)
-
+ 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
